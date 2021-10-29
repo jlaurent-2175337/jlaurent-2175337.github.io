@@ -1,0 +1,42 @@
+body {
+    background-color: azure;
+    font-family: Verdana;
+    color: cornflowerblue;
+}
+
+
+
+h1 {
+    border: dashed 3px darkseagreen;
+    margin-bottom: 10px;
+    border-radius: 15px;
+    text-align: center;
+    font-size: 45px;
+    color: white;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+}
+img  {
+    float: center;
+    margin: 25px;
+  }
+p2 {
+    font-family: fantasy;
+}
+  
+  .wrap {
+    width: 1060px;
+    height:auto;
+    margin: auto;
+    text-align:center;
+    position:relative;
+}
+.text_over_image {
+    position: absolute;
+    margin: auto;
+    top: 0;
+    left:0;
+    right:0;
+    bottom:0;
+    color:#fff;
+    height:100px;
+}
